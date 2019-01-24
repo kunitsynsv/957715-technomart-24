@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Сергей Куницын](https://up.htmlacademy.ru/htmlcss/24/user/957715).
-* Наставник: `Неизвестно`.
+* Наставник: [Вадим Новаш](https://htmlacademy.ru/profile/stakeout).
 
 ---
 
